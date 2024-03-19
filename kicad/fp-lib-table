@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "lab-psu")(type "KiCad")(uri "${KIPRJMOD}/lab-psu.pretty")(options "")(descr ""))
+)
