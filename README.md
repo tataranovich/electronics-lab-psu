@@ -23,4 +23,4 @@ Linear power supply with 5 fixed outputs (+12V, +5V, +3.3V, -5V, -12V).
 - Ammeters: 91C16 with [custom scale](./scale/91C16%20scale.svg) created using [Scale Master](https://soulmare.github.io/scale_master/)
 - Cooling: CMDK8-7I52D-A5-GP or equivalent (70mm fan)
 - [Schematic and PCB](./kicad) created using KiCad
-- [Case panels](./panels) created using LibreCad
+- [Case panels](./panels) created using LibreCad and FreeCad
